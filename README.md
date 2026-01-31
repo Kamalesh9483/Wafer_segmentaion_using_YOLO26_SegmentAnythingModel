@@ -15,6 +15,9 @@ Dataset:
 Source: Roboflow Universe
 https://universe.roboflow.com/test-c3vhv/silicon-wafer-icwiy
 
+<img width="1220" height="2612" alt="image" src="https://github.com/user-attachments/assets/b05283f5-ba89-4b55-946f-495084d6fe8a" />
+
+Results:
 <img width="1582" height="812" alt="Image_segmentation_3" src="https://github.com/user-attachments/assets/7ccffe0e-0fcd-4bd2-ae8d-1d9d3229ddc0" />
 <img width="1582" height="812" alt="Image_segmentation_1" src="https://github.com/user-attachments/assets/4435af6a-fcf3-43fe-989f-ca97613f32eb" />
 <img width="1440" height="790" alt="Image_segmentation_2" src="https://github.com/user-attachments/assets/a908a81b-4200-4b27-a61a-2204dd313904" />
