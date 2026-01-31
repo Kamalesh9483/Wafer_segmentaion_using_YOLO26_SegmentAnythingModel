@@ -1,0 +1,12 @@
+path: /content/wafer
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+  - Die
+  - Pad_1
+  - Pad_2
+  - Pad_3
