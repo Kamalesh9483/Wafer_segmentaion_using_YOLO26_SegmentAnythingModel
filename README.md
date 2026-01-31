@@ -1,6 +1,6 @@
 # Wafer_segmentaion_using_YOLO26_SegmentAnythingModel
 
-##Silicon Wafer Defect Detection & Segmentation
+##Silicon Wafer Detection & Segmentation
 ###YOLOv26 + SAM (Segment Anything Model)
 
 Overview
