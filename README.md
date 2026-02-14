@@ -49,6 +49,8 @@ Results Version 1:
 <img width="1440" height="790" alt="Image_segmentation_2" src="https://github.com/user-attachments/assets/a908a81b-4200-4b27-a61a-2204dd313904" />
 
 Results Version 2:
-<img width="2190" height="556" alt="image" src="https://github.com/user-attachments/assets/742ecb04-86e3-4a97-a6f6-c414012f5c9b" />
-<img width="2190" height="556" alt="image" src="https://github.com/user-attachments/assets/18c7a926-1b81-429b-83a1-b65eab4be931" />
+<img width="1440" height="418" alt="image" src="https://github.com/user-attachments/assets/455527b2-8311-41a7-9ac4-3d1ff321d6ca" />
+<img width="1440" height="418" alt="image" src="https://github.com/user-attachments/assets/de97ab0d-2c95-4202-a290-c94eeec323d1" />
+
+
 
