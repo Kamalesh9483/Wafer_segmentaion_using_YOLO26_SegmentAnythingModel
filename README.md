@@ -1,18 +1,44 @@
-# Wafer_segmentaion_using_YOLO26_SegmentAnythingModel
+# Silicon Wafer Detection & Segmentation  
+## YOLO26 + SAM (Segment Anything Model)
 
-##Silicon Wafer Detection & Segmentation
-###YOLOv26 + SAM (Segment Anything Model)
+## Overview
 
-Overview
-1. This Project demonstrates an end-to-end computer vision pipeline for silicon wafer image analysis, combining:
-2. Object detection using a custom-trained YOLOv26 model
-3. High-precision segmentation using Meta’s Segment Anything Model (SAM)
-4. Clear visualization of original images vs segmented outputs
+This project presents an end-to-end computer vision pipeline for **silicon wafer image analysis**, combining deep learning–based detection and segmentation.
 
-The workflow starts from bounding-box labeling, progresses through YOLO training, and finally performs YOLO-guided SAM segmentation.
+The system integrates:
 
-Dataset:
-Source: Roboflow Universe
+- A custom-trained YOLO26 segmentation model
+- Automatic segmentation using Meta AI’s Segment Anything Model (SAM)
+- Clear side-by-side visualization of segmentation outputs
+
+The workflow starts from dataset preparation and YOLO training, and progresses to comparative segmentation using YOLO and SAM.
+
+---
+
+## Project Versions
+
+### Version 1 — Integrated YOLO + SAM Pipeline  
+📄 **Notebook:** `YOLO_26_SAM_Segmentation.ipynb`
+
+Version 1 implements an integrated pipeline where:
+
+- YOLO segmentation detects wafer regions
+- SAM is used to refine or augment segmentation
+- Combined outputs are visualized in a unified workflow
+
+This version focuses on exploring collaborative segmentation between YOLO and SAM.
+
+---
+
+### Version 2 — Independent YOLO & SAM Predictions  
+📄 **Notebook:** `YOLO_26_SAM_Segmentation_V2.ipynb`
+
+Version 2 separates the two models and evaluates them independently and use both overlapping region for inference.
+
+## Dataset
+
+**Source:** Roboflow Universe  
+Silicon Wafer Dataset:  
 https://universe.roboflow.com/test-c3vhv/silicon-wafer-icwiy
 
 <img width="1220" height="2612" alt="image" src="https://github.com/user-attachments/assets/b05283f5-ba89-4b55-946f-495084d6fe8a" />
