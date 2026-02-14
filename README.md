@@ -41,9 +41,14 @@ Version 2 separates the two models and evaluates them independently and use both
 Silicon Wafer Dataset:  
 https://universe.roboflow.com/test-c3vhv/silicon-wafer-icwiy
 
-<img width="1220" height="2612" alt="image" src="https://github.com/user-attachments/assets/b05283f5-ba89-4b55-946f-495084d6fe8a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/072fccfc-187d-43a6-92e1-7823916c3dbd" />
 
-Results:
+Results Version 1:
 <img width="1582" height="812" alt="Image_segmentation_3" src="https://github.com/user-attachments/assets/7ccffe0e-0fcd-4bd2-ae8d-1d9d3229ddc0" />
 <img width="1582" height="812" alt="Image_segmentation_1" src="https://github.com/user-attachments/assets/4435af6a-fcf3-43fe-989f-ca97613f32eb" />
 <img width="1440" height="790" alt="Image_segmentation_2" src="https://github.com/user-attachments/assets/a908a81b-4200-4b27-a61a-2204dd313904" />
+
+Results Version 2:
+<img width="2190" height="556" alt="image" src="https://github.com/user-attachments/assets/742ecb04-86e3-4a97-a6f6-c414012f5c9b" />
+<img width="2190" height="556" alt="image" src="https://github.com/user-attachments/assets/18c7a926-1b81-429b-83a1-b65eab4be931" />
+
